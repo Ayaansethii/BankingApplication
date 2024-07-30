@@ -1,0 +1,5 @@
+Username: ethan
+Password: ethan
+Balance: 90.0
+Level: Silver
+Role: Customer

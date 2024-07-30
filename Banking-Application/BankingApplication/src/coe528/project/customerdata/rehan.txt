@@ -1,0 +1,5 @@
+Username: rehan
+Password: rehan
+Balance: 10952.0
+Level: Gold
+Role: Customer

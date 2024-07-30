@@ -1,0 +1,5 @@
+Username: rehan
+Password: rehan
+Balance: 952.0
+Level: Silver
+User Type: Customer
